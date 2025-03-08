@@ -1,0 +1,315 @@
+Log: Log file open, 11/25/14 21:15:25
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Log:  ... running in INSTALLED mode
+DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Config\ConsoleVariables.ini
+Init: Version: 10897
+Init: Epic Internal: 0
+Init: Compiled (32-bit): Nov 21 2014 09:20:27
+Init: Changelist: 1532151
+Init: Command line: 
+Init: Base directory: C:\Program Files (x86)\Steam\steamapps\common\GoatSimulator\Binaries\Win32\
+[0000.28] Log: Deleting old log file Launch-backup-2014.11.22-21.45.05.log
+[0000.29] Log: Deleting old log file Launch-backup-2014.11.22-21.02.27.log
+[0000.29] Log: Deleting old log file Launch-backup-2014.11.22-21.25.20.log
+[0000.36] Init: Computer: THE-GAME
+[0000.36] Init: User: Geneosis
+[0000.36] Init: CPU Page size=4096, Processors=8
+[0000.36] Init: High frequency timer resolution =1.948695 MHz
+[0000.36] Init: Memory total: Physical=5.9GB (5GB approx) Pagefile=7.0GB Virtual=4.0GB
+[0000.57] Log: Steam Client API initialized 1
+[0000.85] Log: Steam Game Server API initialized 1
+[0000.85] Init: Presizing for 33476 objects not considered by GC, pre-allocating 0 bytes.
+[0000.86] Init: Object subsystem initialized
+[0000.87] DevDataBase: Connection to "Provider=sqloledb;Data Source=production-db;Initial Catalog=EngineTaskPerf;Trusted_Connection=Yes;Connection Timeout=2" or "10.1.20.20" failed
+[0000.98] Log: Found D3D11 adapter 0: NVIDIA GeForce GT 555M    
+[0000.98] Log: Adapter has 3008MB of dedicated video memory, 0MB of dedicated system memory, and 1087MB of shared system memory
+[0001.00] Log: Found D3D11 adapter 1: NVIDIA GeForce GT 555M    
+[0001.00] Log: Adapter has 3008MB of dedicated video memory, 0MB of dedicated system memory, and 1087MB of shared system memory
+[0001.01] Log: Found D3D11 adapter 2: Microsoft Basic Render Driver
+[0001.01] Log: Adapter has 3008MB of dedicated video memory, 0MB of dedicated system memory, and 1087MB of shared system memory
+[0001.18] Log: Shader platform (RHI): PC-D3D-SM3
+[0001.22] Log: PhysX GPU Support: DISABLED
+[0001.36] DevConfig: GConfig::Find has loaded file:  ..\..\GoatGame\Localization\INT\GFxUI.INT
+[0001.70] DevConfig: GConfig::Find has loaded file:  ..\..\GoatGame\Localization\INT\Engine.INT
+[0001.70] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Localization\INT\Core.INT
+[0002.04] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Localization\INT\Engine.INT
+[0002.93] DevConfig: GConfig::LoadFile associated file:  ..\..\GoatGame\Config\GoatGameStats.ini
+[0003.01] DevConfig: GConfig::LoadFile associated file:  ..\..\GoatGame\Config\GoatPlaylist.ini
+[0004.58] DevConfig: GConfig::LoadFile associated file:  ..\..\GoatGame\Config\GoatWeb.ini
+[0004.60] DevConfig: GConfig::LoadFile associated file:  ..\..\GoatGame\Config\GoatCrowd.ini
+[0004.61] DevConfig: GConfig::LoadFile associated file:  ..\..\GoatGame\Config\GoatCamera.ini
+[0004.73] DevConfig: GConfig::Find has loaded file:  ..\..\GoatGame\Localization\INT\GoatGame.INT
+[0004.82] DevConfig: GConfig::LoadFile associated file:  ..\..\GoatGame\Config\GoatBuildMap.ini
+[0011.07] Log: 87055 objects as part of root set at end of initial load.
+[0011.07] Log: 0 out of 0 bytes used by permanent object pool.
+[0011.07] Log: Initializing Engine...
+[0011.10] DevConfig: GConfig::Find has loaded file:  ..\..\Engine\Localization\INT\UnrealEd.INT
+[0014.94] Log: Initializing Steamworks
+[0014.96] Log: Logged in as 'Geneosis'
+[0014.98] DevSave: --- Processing save ---
+[0014.98] Log: Loading a progression of Save Version: 16
+[0014.98] DevSave: --- Save processed [0.00 seconds] ---
+[0014.99] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to load 'Class None.': Failed to find object 'Class None.'
+[0014.99] Warning: Warning, Failed to find object 'Class None.'
+[0014.99] DevConfig: GConfig::Find has loaded file:  ..\..\GoatGame\Cloud\CloudStorage.ini
+[0014.99] Log: LoadMap: LegalLevel?Name=Player?Team=255
+[0015.02] Log: Game class is 'GameInfo'
+[0015.07] Log: Primary PhysX scene will be in software.
+[0015.07] Log: Creating Primary PhysX Scene.
+[0015.07] Log: Bringing World legallevel.TheWorld up for play (0) at 2014.11.25-21.15.40
+[0015.07] Log: Bringing up level for play took: 0.041342
+[0015.10] Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[0015.10] Log: ########### Finished loading level: 0.105109 seconds
+[0015.13] Log: Initializing Engine Completed
+[0015.13] Log: >>>>>>>>>>>>>> Initial startup: 15.13s <<<<<<<<<<<<<<<
+[0015.17] ScriptLog: OnEnumerateUserSubscribedFilesComplete NumResultsReturned:'19' TotalResultCount:'19'
+[0015.59] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'244195940'
+[0015.59] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'244401617'
+[0015.60] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'244500835'
+[0015.60] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'244982590'
+[0015.61] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'245365487'
+[0015.70] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'245452430'
+[0015.71] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'246385462'
+[0015.71] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'248978521'
+[0015.72] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'250080796'
+[0015.72] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'252598876'
+[0015.72] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'254128442'
+[0015.72] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'258440290'
+[0015.73] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'268357769'
+[0015.80] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'282670406'
+[0015.80] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'283308519'
+[0015.80] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'284914583'
+[0015.81] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'291072426'
+[0015.81] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'298156253'
+[0015.81] ScriptLog: OnGetPublishedFileDetailsComplete bWasSuccessful:'True' PublishHandle:'327046832'
+[0022.23] Log: LoadMap: Level_01?Name=Player?Team=255?game=GoatGame.GGGameInfo
+[0022.23] Log: --- LOADING MOVIE START ---
+[0026.89] Log: Game class is 'GGGameInfo'
+[0028.29] Log: Primary PhysX scene will be in software.
+[0028.29] Log: Creating Primary PhysX Scene.
+[0028.44] Log: FKAggregateGeom::InstanceNovodexGeom: (Actor: level_01.TheWorld:PersistentLevel.StaticMeshActor_609 Component: StaticMeshComponent_57 StaticMesh: Office_Set_01.Mesh.CSS_Logo_01) No geometries in FKAggregateGeom.
+[0028.44] Log: URB_BodyInstance::InitBody : Could not create new Shape: Actor: level_01.TheWorld:PersistentLevel.StaticMeshActor_609 Component: StaticMeshComponent_57 StaticMesh: Office_Set_01.Mesh.CSS_Logo_01
+[0028.51] Log: FKAggregateGeom::InstanceNovodexGeom: (Actor: level_01.TheWorld:PersistentLevel.StaticMeshActor_8654 Component: StaticMeshComponent_57 StaticMesh: Office_Set_01.Mesh.CSS_Logo_01) No geometries in FKAggregateGeom.
+[0028.51] Log: URB_BodyInstance::InitBody : Could not create new Shape: Actor: level_01.TheWorld:PersistentLevel.StaticMeshActor_8654 Component: StaticMeshComponent_57 StaticMesh: Office_Set_01.Mesh.CSS_Logo_01
+[0028.86] Log: FKAggregateGeom::InstanceNovodexGeom: (Actor: level_01.TheWorld:PersistentLevel.FogVolumeSphericalDensityInfo_0 Component: StaticMeshComponent_319 StaticMesh: EngineMeshes.Sphere) Cannot 3D-Scale rigid-body primitives (sphere, box, sphyl).
+[0028.86] Log: URB_BodyInstance::InitBody : Could not create new Shape: Actor: level_01.TheWorld:PersistentLevel.FogVolumeSphericalDensityInfo_0 Component: StaticMeshComponent_319 StaticMesh: EngineMeshes.Sphere
+[0028.92] Log: Bringing World level_01.TheWorld up for play (0) at 2014.11.25-21.15.53
+[0029.45] ScriptWarning: Could not find Physmat for GGInterpActor_15
+	GGInterpActor level_01.TheWorld:PersistentLevel.GGInterpActor_15
+	Function GoatGame.GGInterpActor:GetPhysMat:0183
+[0029.48] Log: Bringing up level for play took: 2.585358
+[0029.48] ScriptLog: UnlockAchievement achID:'ACH_CRASH' controllerID:'3'
+[0029.51] Log: SystemSettings based on: SystemSettings
+[0029.52] ScriptLog: SYSTEM SETTINGS: SetKActorSettings: Did not find settings for map level_01
+[0029.52] ScriptLog: SYSTEM SETTINGS: SetKActorSettings: DetailLevel=2, MaxTicksPerFrame=3000, MaxTimeBetweenTicks=0.0670, AlwaysTickDistance=10000.0000
+[0029.52] ScriptLog: SYSTEM SETTINGS: SetNPCPhysicsSettings: Did not find settings for map level_01
+[0029.52] ScriptLog: SYSTEM SETTINGS: SetNPCPhysicsSettings: DetailLevel=2, FreezeRagdollDistance=6500.0000, AlwaysTickDistance=7000.0000
+[0029.52] ScriptLog: SYSTEM SETTINGS: ChangeCullDistanceValues: Did not find settings for map level_01
+[0029.52] ScriptLog: SYSTEM SETTINGS: ChangeCullDistanceValues: DetailLevel=2
+[0029.52] ScriptLog: SYSTEM SETTINGS: ChangeCullDistanceValues: CullDistanceSizePair[0]: Size=0.0000, CullDistance=3000.0000
+[0029.52] ScriptLog: SYSTEM SETTINGS: ChangeCullDistanceValues: CullDistanceSizePair[1]: Size=256.0000, CullDistance=5500.0000
+[0029.52] ScriptLog: SYSTEM SETTINGS: ChangeCullDistanceValues: CullDistanceSizePair[2]: Size=512.0000, CullDistance=7000.0000
+[0029.52] ScriptLog: SYSTEM SETTINGS: ChangeCullDistanceValues: CullDistanceSizePair[3]: Size=1024.0000, CullDistance=11000.0000
+[0029.76] ScriptLog: SYSTEM SETTINGS: SetNPCGraphicsSettings: Did not find settings for map level_01
+[0029.76] ScriptLog: SYSTEM SETTINGS: SetNPCGraphicsSettings: DetailLevel=2, FreezeRagdollDistance=11000.0000
+[0029.76] ScriptLog: CREATE ANALYTICS MANAGER GGAnalyticsManager_0
+[0029.76] Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[0029.76] Log: ########### Finished loading level: 7.531099 seconds
+[0031.17] Error: Can't start an online game that hasn't been created
+[0031.17] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0032.25] Log: --- LOADING MOVIE TIME: 10.0 sec ---
+[0032.89] DevDlc: Looking for DLC...
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\244195940
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\244401617
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\244500835
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\244982590
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\245365487
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\245452430
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\246385462
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\250080796
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\254128442
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\258440290
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\268357769
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\282670406
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\283308519
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\284914583
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\291072426
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\298156253
+[0032.90] DevDlc: Did not find version.txt for: ../../GoatGame/Mods/Downloaded\327046832
+[0032.90] DevDlc: Found DLC dir MyMods
+[0032.93] DevDlc: 	Found 76 package files
+[0032.96] DevDlc: 	Found 93 content files
+[0032.96] DevDlc: Found DLC dir Scripts
+[0032.96] DevDlc: 	Found 22 package files
+[0032.96] DevDlc: 	Found 0 content files
+[0032.96] DevDlc: Found DLC dir ../../GoatGame/Mods/Downloaded\248978521
+[0032.96] DevDlc: 	Found 2 package files
+[0032.97] DevDlc: 	Found 3 content files
+[0032.97] DevDlc: Found DLC dir ../../GoatGame/Mods/Downloaded\252598876
+[0032.97] DevDlc: 	Found 2 package files
+[0032.97] DevDlc: 	Found 2 content files
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\AdvancedPitchingMachine\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\AdvancedPitchingMachine\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\AdvancedPitchingMachine\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\AdvancedPitchingMachine\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\BottomlessJar\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\BottomlessJar\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\BottomlessJar\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\BottomlessJar\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\BouncingGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\BouncingGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\BouncingGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\BouncingGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\CloningGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\CloningGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\CloningGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\CloningGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\FirstPersonCamera\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\FirstPersonCamera\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\FirstPersonCamera\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\FirstPersonCamera\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\FlappyWings\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\FlappyWings\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\FlappyWings\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\FlappyWings\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\GhostGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\GhostGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\GhostGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\GhostGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\InfiniteImprobabilityCore\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\InfiniteImprobabilityCore\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\InfiniteImprobabilityCore\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\InfiniteImprobabilityCore\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\KingGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\KingGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\KingGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\KingGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\MorphGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\MorphGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\MorphGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\MorphGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\NinjaGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\NinjaGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\NinjaGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\NinjaGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\Nothing\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\Nothing\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\Nothing\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\Nothing\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\ResizableGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\ResizableGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\ResizableGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\ResizableGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\SlenderSurvival\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\SlenderSurvival\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\SlenderSurvival\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\SlenderSurvival\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\SonicGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\SonicGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\SonicGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\SonicGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\SpiderGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\SpiderGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\SpiderGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\SpiderGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\TargetGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\TargetGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\TargetGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\TargetGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\TazGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\TazGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\TazGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\TazGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\TelekineticGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\TelekineticGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\TelekineticGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\TelekineticGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\TimeMasterGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\TimeMasterGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\TimeMasterGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\TimeMasterGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\WizardGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\WizardGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\WizardGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\WizardGoat\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\ZeroGravityGenerator\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\ZeroGravityGenerator\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\ZeroGravityGenerator\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\ZeroGravityGenerator\version.txt
+[0032.97] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/MyMods\ZombieGoat\GoatMod.ini
+[0032.97] DevDlc: Caching file: previewfile/../../GoatGame/Mods/MyMods\ZombieGoat\previewfile.jpg
+[0032.97] DevDlc: Caching file: tags/../../GoatGame/Mods/MyMods\ZombieGoat\tags.txt
+[0032.97] DevDlc: Caching file: version/../../GoatGame/Mods/MyMods\ZombieGoat\version.txt
+[0032.97] DevDlc: Caching file: unnamed/../../GoatGame/Mods/MyMods\unnamed.png
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\AdvancedPitchingMachine\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\BottomlessJar\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\BouncingGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\CloningGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\FirstPersonCamera\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\FlappyWings\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\GhostGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\InfiniteImprobabilityCore\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.97] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\KingGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\MorphGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\NinjaGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\Nothing\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\ResizableGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\SlenderSurvival\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\SonicGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\SpiderGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\TargetGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\TazGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\TelekineticGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\TimeMasterGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\WizardGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\ZeroGravityGenerator\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.98] DevDlc: Merged DLC config file (../../GoatGame/Mods/MyMods\ZombieGoat\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.99] DevDlc: Caching file: RMMutator/../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\248978521\Src\GGRocketMan\Classes\RMMutator.uc
+[0032.99] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\248978521\GoatMod.ini
+[0032.99] DevDlc: Caching file: version/../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\248978521\version.txt
+[0032.99] DevDlc: Merged DLC config file (../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\248978521\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0032.99] DevDlc: Caching file: GoatMod/../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\252598876\GoatMod.ini
+[0032.99] DevDlc: Caching file: version/../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\252598876\version.txt
+[0032.99] DevDlc: Merged DLC config file (../../GoatGame/Mods/../../GoatGame/Mods/Downloaded\252598876\GoatMod.ini) into existing config file (..\..\GoatGame\Config\GoatMod.ini)
+[0033.00] ScriptLog: flushing the analytics data now
+[0033.14] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0033.17] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0033.19] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0033.22] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1yfsv04'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1qX6VIB'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1q13EXC'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/QeqInN'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1wkGSgm'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1qGwRc7'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1lmivKP'>
+[0033.43] Warning: Warning, TranslationContext could not find handler for 'a href='event' while translating <a href='event:bit.ly/1gSpaFF'>
+[0051.19] ScriptLog: OnWritePreviewFileComplete wasSuccessful:'True' Filename:'TimeMasterGoat.jpg' SharedHandle:'539633534815710510'
+[0051.19] ScriptLog: OnWritePreviewFileCompleteAndUploadDirectory wasSuccessful:'True' Filename:'TimeMasterGoat.jpg' SharedHandle:'539633534815710510'
+[0051.25] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0051.30] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0051.33] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0051.36] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0051.39] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0051.42] Log: CheckConnectionAttempt: Connection attempt has not yet completed.
+[0053.38] ScriptLog: OnPublishedSharedFileComplete wasSuccessful:'False' Filename:'TimeMasterGoat' PublishHandle:'18446744073709551615'
+[0053.38] ScriptWarning: FAILED TO PUBLISH Filename:'TimeMasterGoat' PublishHandle:'18446744073709551615'
+	GGWorkshop Transient.GGEngine_0:GGGameViewportClient_0.GGWorkshop_0
+	Function GoatGame.GGWorkshop:OnPublishedSharedFileComplete:025C
+[0055.53] Log: Closing by request
+[0055.53] Log: appRequestExit(0)
+[0055.82] Exit: Preparing to exit.
+[0056.09] Exit: Game engine shut down
+[0056.71] Exit: Windows client shut down
+[0056.71] Exit: XAudio2 Device shut down.
+[0056.94] Exit: Object subsystem successfully closed.
+[0056.99] Log: Shutting down FaceFX...
+[0056.99] Log: FaceFX shutdown.
+[0057.04] Exit: Exiting.
+[0057.04] Log: Log file closed, 11/25/14 21:16:22

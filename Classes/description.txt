@@ -1,0 +1,48 @@
+Not to be confused with Time Lords...
+
+Some can control fire... Others can control gravity... You can control Time! More precisely you have the ability to stop it or to give it an infinite speed, which let you travel instantly from one point to another.
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Time Master Goat: You can freeze time and teleport.
+
+[b]COMMANDS[/b]
+- [b][SlowmoKey]:[/b] Freeze/Unfreeze time.
+- [b][RightClick]:[/b] Hold to enable Time Shift.
+- [b][RightClick] + [JumpKey]:[/b] Teleport.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][SlowmoKey]:[/b] Freeze/Unfreeze time.
+- [b][LT]:[/b] Hold to enable Time Shift.
+- [b][LT] + [JumpKey]:[/b] Teleport.
+
+[b]CHARACTERISTICS[/b]
+- When time is frozen:
+-- If you make any action that activate ragdoll, you will be frozen too.
+-- You can't hear any sound.
+- When Time Shift is active:
+-- Your movement is stopped, even in the air;
+-- You are immune to ragdoll.
+-- You will see the teleportation target.
+-- Your goat will look in the direction of this target.
+- You can't teleport when ragdolled.
+- You will not teleport if an object is blocking your destination.
+- You can't use slowmotion any more.
+
+[b]EASTER EGGS[/b]
+- [spoiler]There is a secret way to activate Dio Brando sounds and skin. Hint:[/spoiler][spoiler]You need more muscles to look like him.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- You can rarely teleport inside uninhabited buildings or under the map, respawn to fix it.
+- You can rarely teleport to the wrong place.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]The ability to stop time is was something I really wanted to achieve, but the way I tried to do it (using slowmotion) was not at all working as I expected and I ended up dropping this mod for a moment...
+Hopefully, the MMO update came with the Wheel Goat mutator that did exactly what I wanted to do for a time freeze :) Anyway having this ability on the special key made combination with other mods not so interesting, so I decided to make a mod that reuse this power and placed it on the slowmotion key (as slowmotion is a bit useless when you can stop time :p).
+Also after discussing with Kibbyman about that power, I discovered that Dio Brando (from JoJo's Bizarre Adventure) was using this kind of power and I planned to add him as an easter egg ^^
+Finally, changing the key of an existing mod and adding some new skin/sounds was not really interesting from my developper point of view, that's why I started thinking about another ability I could give to a goat who can manipulate time... And the answer was instant moves of course :D So I created a new target mechanism reusing some code from the Wizard Goat and Target Goat, and I could teleport everywhere I looked ^^
+I had some problems to publish this mod because I reached the maximal size allowed on the steam workshop for this game >_< After deleting some useless files present in all my old mods, I could publish this one :)
+During this time, Homfrog posted some improvements ideas for the Wheel Goat on my mod request thread and I decided to add one of them in this mod: when you stop time, the sound in the whole game will also be stopped.
+About the ragdoll immunity and the air stop, those are just a side effect of a big code I added to fix some glitches during teleportation X)
+[/quote]
